@@ -1,0 +1,3 @@
+function calculateDifference(a, b) {
+    
+}
